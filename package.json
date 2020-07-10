@@ -71,7 +71,7 @@
     "is-ci-cli": "^2.0.0",
     "jest": "^24.9.0",
     "jest-cli": "^24.9.0",
-    "jest-diff": "^25.1.0",
+    "jest-diff": "^26.1.0",
     "jest-runner-eslint": "^0.7.5",
     "jest-watch-select-projects": "^1.0.0",
     "jest-watch-typeahead": "^0.4.2",
