@@ -75,7 +75,7 @@
     "jest-runner-eslint": "^0.7.5",
     "jest-watch-select-projects": "^1.0.0",
     "jest-watch-typeahead": "^0.4.2",
-    "lint-staged": "^9.4.3",
+    "lint-staged": "^10.2.11",
     "prettier": "^1.19.1",
     "prop-types": "^15.5.0",
     "react": "^16.12.0",
